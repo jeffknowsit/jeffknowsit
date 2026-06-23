@@ -42,15 +42,15 @@
 ### <p align="center">📊 GitHub Activity</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/jeffknowsit/jeffknowsit/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffknowsit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffknowsit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
